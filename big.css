@@ -75,7 +75,7 @@ img {
 }
 
 div.slide-container {
-  background-size: 100%;
+  background-size: cover;
   display: flex;
   align-items: center;
 }
